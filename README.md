@@ -3,9 +3,8 @@
 
 ## Project
 
-> Abstract 
 3DOF Robot Arm Inverse Kinematic calculations using trigonometry. The mechanical build is made out of 3 Servo Motors. The end-effector position is given by the position of the mouse on the computer.
->> The cartesian coordinates of the mouse are used to calculate the joint angles, which are communicated to the arduino via Serial communication
+>> The cartesian coordinates of the mouse are used to calculate the joint angles, which are communicated to the Arduino via Serial communication
 
 ## Kinematic Calculation video:
 
